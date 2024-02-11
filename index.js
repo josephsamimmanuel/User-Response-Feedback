@@ -29,7 +29,7 @@ btnEl.addEventListener("click",function() {
         <strong>Thank you!</strong>
         <br>
         <br>
-        <strong>Feedback: ${selectedRating}</strong>
+        <strong>Your Feedback: ${selectedRating}</strong>
         <p>Your feedback is monitored, which helps us improve our performance.</p>
         `;
   }
